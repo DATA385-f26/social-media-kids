@@ -1,0 +1,11 @@
+---
+title: "Investigating a Dataset's Ingredients"
+---
+
+## Topic Area
+
+Introduce your topic area. What did you choose, why did you choose it? 
+
+## Research Question
+
+State your research question that you hope to answer with data. 

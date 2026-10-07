@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: docs
+  preview:
+    port: 4200
+    browser: true
+
+website:
+  page-navigation: true
+  title: "TITLE"
+  description: "Project 01: Data Collection Facts Label"
+
+  navbar: 
+    pinned: true
+    left: 
+      - text: Overview
+        file: index.qmd
+      - text: Dataset Details
+        menu:
+        - text: "Person 1"
+          href: person1.qmd
+        - text: "Person 2"
+          href: person2.qmd
+      - text: "Comparative Analysis"
+        href: comparison.qmd
+
+format:
+  html:
+    theme: 
+      light: flatly
+      dark: darkly
+    toc: true
+
+
+execute:
+  freeze: true # re-render only when source changes
+  echo: false
+  warning: false
+  message: false
