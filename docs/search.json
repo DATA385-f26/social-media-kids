@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "HectorA.A.html",
+    "href": "HectorA.A.html",
+    "title": "Data Collection Facts Label",
+    "section": "",
+    "text": "Data Source Facts Label\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource Identity\n\n\n\n\n\n\nSource name\n\n\nPew Research Center\n\n\n\n\nDomain/topic\n\n\nSocial Media Fact Sheet\n\n\n\n\nSource type\n\n\nResearch Date Set\n\n\n\n\n\n\n\n\n\n\n\nCollection Context\n\n\n\n\n\n\nCollector/producer\n\n\nPrivate Organization\n\n\n\n\nOriginal purpose\n\n\n“better understand which social media platforms Americans use”\n\n\n\n\nCollection method\n\n\n“address-based sampling and a multimode protocol that included web, mail and phone.”\n\n\n\n\nRecord-creation event\n\n\nNot stated\n\n\n\n\n\n\n\n\n\n\n\nObservation and Scope\n\n\n\n\n\n\nUnit of observation\n\n\nIndividual Preferences\n\n\n\n\nPopulation or objects represented\n\n\nAdults\n\n\n\n\nTime period covered\n\n\n2013 -2025\n\n\n\n\nGeographic area coverage\n\n\nOnline Platform\n\n\n\n\n\n\n\n\n\n\n\nVariables and Data Structure\n\n\n\n\n\n\nMain variables/fields\n\n\nPopulation percentage,Year, Social Media Platform\n\n\n\n\nData types included\n\n\nNumerical, Categorical, Text, ID\n\n\n\n\nDirect measurements\n\n\nage, gender, level of formal education\n\n\n\n\nPossible proxy variables\n\n\nNot Stated\n\n\n\n\n\n\n\n\n\n\n\nDocumentation\n\n\n\n\n\n\nDocumentation found\n\n\nSurvey Instrument\n\n\n\n\nStated collection details\n\n\nNot Stated\n\n\n\n\nNA\n\n\n\n\n\n\nhttps://www.pewresearch.org/internet/fact-sheet/social-media/"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Investigating a Dataset’s Ingredients",
+    "section": "",
+    "text": "Introduce your topic area. What did you choose, why did you choose it?"
+  },
+  {
+    "objectID": "index.html#topic-area",
+    "href": "index.html#topic-area",
+    "title": "Investigating a Dataset’s Ingredients",
+    "section": "",
+    "text": "Introduce your topic area. What did you choose, why did you choose it?"
+  },
+  {
+    "objectID": "index.html#research-question",
+    "href": "index.html#research-question",
+    "title": "Investigating a Dataset’s Ingredients",
+    "section": "Research Question",
+    "text": "Research Question\nState your research question that you hope to answer with data."
+  },
+  {
+    "objectID": "emilylupercio.html",
+    "href": "emilylupercio.html",
+    "title": "Data Collection Facts Label",
+    "section": "",
+    "text": "Data Source Facts Label\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource Identity\n\n\n\n\n\n\nSource name\n\n\nSocial Media and the Internet in the Trafficking of Humans (SMITH) Data Project\n\n\n\n\nDomain/topic\n\n\nSocial Sciences\n\n\n\n\nSource type\n\n\nPublic Dataset\n\n\n\n\n\n\n\n\n\n\n\nCollection Context\n\n\n\n\n\n\nCollector/producer\n\n\nOrganizition: Harvard Dataverse (public). Author: Spencer Brooke Hayes (refrence page included in coding guide).\n\n\n\n\nOriginal purpose\n\n\nData set was created by author to use as evidence in a dissertation\n\n\n\n\nCollection method\n\n\nPublic records: United Nations annual reports\n\n\n\n\nRecord-creation event\n\n\nEvent: Human traffiking incident reported to United Nations and landing on annual reports\n\n\n\n\n\n\n\n\n\n\n\nObservation and Scope\n\n\n\n\n\n\nUnit of observation\n\n\nHuman trafficking case\n\n\n\n\nPopulation or objects represented\n\n\nHuman trafficking case details such as date, case number, country\n\n\n\n\nTime period covered\n\n\n2000-2023\n\n\n\n\nGeographic area coverage\n\n\nMember states of united nations\n\n\n\n\n\n\n\n\n\n\n\nVariables and Data Structure\n\n\n\n\n\n\nMain variables/fields\n\n\nCountry, use of social media, technology presence\n\n\n\n\nData types included\n\n\nCategorical, numerical, year, case ID, binary, web link\n\n\n\n\nDirect measurements\n\n\nDate, country, internet/ social media/ techonoly presence\n\n\n\n\nPossible proxy variables\n\n\nNA\n\n\n\n\n\n\n\n\n\n\n\nDocumentation\n\n\n\n\n\n\nDocumentation found\n\n\nMetadata, coding guide, abstract\n\n\n\n\nStated collection details\n\n\nYes, dataset even includes link"
+  }
+]
