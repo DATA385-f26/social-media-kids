@@ -19,8 +19,8 @@ website:
         menu:
         - text: "Person 1"
           href: person1.qmd
-        - text: "Person 2"
-          href: person2.qmd
+        - text: "Hector A.A"
+          href: HectorA.A.qmd
       - text: "Comparative Analysis"
         href: comparison.qmd
 
