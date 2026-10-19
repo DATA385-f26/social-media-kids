@@ -1,0 +1,102 @@
+---
+title: "Data Collection Facts Label"
+format: html
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+```{r}
+library(tidyverse)
+#library(knitr)
+library(kableExtra)
+dsfl <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/1gHrvqiIdx6f5IJmwUiIIF7mxNRgvIQK9i2exl61_mTo/edit?gid=0#gid=0") 
+```
+
+```{r}
+# wrangle the data from google sheets into a format that can be displayed like an actual "Facts Label"
+
+facts <- dsfl |>
+  rename(field = 1, value = 2) |>
+  mutate(
+    row_type = if_else(grepl("^[0-9]+\\.", field), "section", "item"),
+    value    = if_else(is.na(value), "", value)
+  )
+
+spacer <- data.frame(field = "", value = "", row_type = "spacer")
+section_id <- cumsum(facts$row_type == "section")
+
+facts <- facts |>
+  split(section_id) |>
+  lapply(\(x) rbind(x, spacer)) |>
+  bind_rows() |>
+  head(-1) # drop the trailing spacer inserted after the last section
+```
+
+```{r}
+#| results: asis
+
+# Note to students: Do not change this code chunk
+
+cat("
+<style>
+table.nutrition-label {
+  width: 75%;
+  border-collapse: collapse;
+  border: 2px solid black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table.nutrition-label th,
+table.nutrition-label td {
+  border: 1px solid black;
+  padding: 5px 7px;
+}
+
+table.nutrition-label thead tr:nth-child(2) {
+  display: none;
+}
+</style>
+")
+
+label_table <- facts |>
+  select(field, value) |>
+  kbl(
+    format = "html",
+    col.names = c("", ""),
+    align = c("l", "l"),
+    escape = FALSE,
+    table.attr = 'class="nutrition-label"'
+  ) |>
+  add_header_above(
+    c("Data Source Facts Label" = 2),
+    background = "black",
+    color = "white",
+    bold = TRUE,
+    font_size =18
+  ) |>
+  row_spec(
+    which(facts$row_type == "section"),
+    background = "black",
+    color = "white",
+    bold = TRUE,
+    font_size = 12
+  ) |>
+  row_spec(
+    which(facts$row_type == "item"),
+    bold = TRUE,
+    font_size = 11
+  ) |>
+  row_spec(
+    which(facts$row_type == "spacer"),
+    extra_css = "height: 26px;"
+  ) |>
+  column_spec(1, width = "50%") |>
+  column_spec(2, width = "50%")
+
+cat(as.character(label_table))
+```
