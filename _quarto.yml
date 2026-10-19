@@ -17,8 +17,8 @@ website:
         file: index.qmd
       - text: Dataset Details
         menu:
-        - text: "Person 1"
-          href: person1.qmd
+        - text: "Emily Lupercio"
+          href: emilylupercio.qmd
         - text: "Hector A.A"
           href: HectorA.A.qmd
       - text: "Comparative Analysis"
