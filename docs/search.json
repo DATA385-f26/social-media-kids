@@ -1,5 +1,6 @@
 [
   {
+<<<<<<< HEAD
     "objectID": "index.html",
     "href": "index.html",
     "title": "Investigating a Dataset’s Ingredients",
@@ -21,6 +22,9 @@
     "text": "Research Question\nState your research question that you hope to answer with data."
   },
   {
+=======
+    main
+>>>>>>> dacb914d424c15e05f0e94e0fb47710160a752b4
     "objectID": "emilylupercio.html",
     "href": "emilylupercio.html",
     "title": "Data Collection Facts Label",
