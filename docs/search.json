@@ -1,5 +1,6 @@
 [
   {
+<<<<<<< HEAD
     "objectID": "index.html",
     "href": "index.html",
     "title": "Investigating a Dataset’s Ingredients",
@@ -21,6 +22,9 @@
     "text": "Research Question\nWhat are some ways child development is negatively imppacted by their use of social media."
   },
   {
+=======
+    main
+>>>>>>> 06646386c3426e05aac9b8a1277f299d12d0dc79
     "objectID": "emilylupercio.html",
     "href": "emilylupercio.html",
     "title": "Data Collection Facts Label",
