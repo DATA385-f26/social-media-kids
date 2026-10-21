@@ -22,12 +22,12 @@ website:
         - text: "Hector A.A"
           href: HectorA.A.qmd
       - text: "Comparative Analysis"
-        href: comparison.qmd
+        href: analysis.qmd
 
 format:
   html:
     theme: 
-      light: flatly
+      light: litera
       dark: darkly
     toc: true
 

@@ -1,10 +1,5 @@
 [
   {
-<<<<<<< HEAD
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Investigating a Dataset’s Ingredients",
-    "section": "",
     "text": "Introduce your topic area. What did you choose, why did you choose it?"
   },
   {
@@ -12,24 +7,32 @@
     "href": "index.html#topic-area",
     "title": "Investigating a Dataset’s Ingredients",
     "section": "",
-    "text": "Introduce your topic area. What did you choose, why did you choose it?"
+    "text": "For the research topic presented in this website, the team decided to observe the involvement of social media in human trafficking cases around the world. This topic came as th result from the obstacles presented on the research of our original research question, as data in regards of underage victims is rarely accessible and secure due to the nature of the cases, we where forced to pivot to the use of social median in human trafficking cases."
   },
   {
     "objectID": "index.html#research-question",
     "href": "index.html#research-question",
     "title": "Investigating a Dataset’s Ingredients",
     "section": "Research Question",
-    "text": "Research Question\nState your research question that you hope to answer with data."
+    "text": "Research Question\nWhat are some ways child development is negatively imppacted by their use of social media."
   },
   {
-=======
-    main
->>>>>>> dacb914d424c15e05f0e94e0fb47710160a752b4
+   main
+   compare-data
+   06646386c3426e05aac9b8a1277f299d12d0dc79
+
     "objectID": "emilylupercio.html",
     "href": "emilylupercio.html",
     "title": "Data Collection Facts Label",
     "section": "",
     "text": "Data Source Facts Label\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource Identity\n\n\n\n\n\n\nSource name\n\n\nSocial Media and the Internet in the Trafficking of Humans (SMITH) Data Project\n\n\n\n\nDomain/topic\n\n\nSocial Sciences\n\n\n\n\nSource type\n\n\nPublic Dataset\n\n\n\n\n\n\n\n\n\n\n\nCollection Context\n\n\n\n\n\n\nCollector/producer\n\n\nOrganizition: Harvard Dataverse (public). Author: Spencer Brooke Hayes (refrence page included in coding guide).\n\n\n\n\nOriginal purpose\n\n\nData set was created by author to use as evidence in a dissertation\n\n\n\n\nCollection method\n\n\nPublic records: United Nations annual reports\n\n\n\n\nRecord-creation event\n\n\nEvent: Human traffiking incident reported to United Nations and landing on annual reports\n\n\n\n\n\n\n\n\n\n\n\nObservation and Scope\n\n\n\n\n\n\nUnit of observation\n\n\nHuman trafficking case\n\n\n\n\nPopulation or objects represented\n\n\nHuman trafficking case details such as date, case number, country\n\n\n\n\nTime period covered\n\n\n2000-2023\n\n\n\n\nGeographic area coverage\n\n\nMember states of united nations\n\n\n\n\n\n\n\n\n\n\n\nVariables and Data Structure\n\n\n\n\n\n\nMain variables/fields\n\n\nCountry, use of social media, technology presence\n\n\n\n\nData types included\n\n\nCategorical, numerical, year, case ID, binary, web link\n\n\n\n\nDirect measurements\n\n\nDate, country, internet/ social media/ techonoly presence\n\n\n\n\nPossible proxy variables\n\n\nNA\n\n\n\n\n\n\n\n\n\n\n\nDocumentation\n\n\n\n\n\n\nDocumentation found\n\n\nMetadata, coding guide, abstract\n\n\n\n\nStated collection details\n\n\nYes, dataset even includes link"
+  },
+  {
+    "objectID": "analysis.html",
+    "href": "analysis.html",
+    "title": "Analysis",
+    "section": "",
+    "text": "Math 385 Project 1 Phase 3: Group Member Names: Emily Lupercio, Hector Aripez\nGeneral Topic: Social Media\nSpecific RQ: What are some ways child development is negatively impacted by their use of social media.\nData set names: Social Media and the Internet in the Trafficking of Humans (SMITH) Counter Trafficking Data Collaborative (CTDC) Synthetic Data\nTrustworthiness/reputability Both data sets include a codebook explaining their variables. The CTDC codebook details every variable. It provides variable definition, its data type and it lists the values data may take. The SMITH data set only describes variable measures for labels that are abstract. For example the variable “country” is straight forward therefore it is not detailed in the codebook. The SMITH data set may lead to issues as the reader may misinterpret a variable’s definition or the variable type.\nWe must acknowledge that the CTDC data set is synthetic. It was created from software developed by Microsoft. It compares existing data models to standardize large amounts of data on human trafficking cases across multiple platforms. To maintain the victims anonymity, variable outputs are given as intervals. This creates an impact on the accuracy of data labels and their outputs. For example, instead of listing the direct relationship between the victim and perpetrator, we are told if both knew each other or if they were strangers. This data collection method may interfere with our final conclusions as there is a sense of vagueness to the data set.\nDegree of relevance to research question The SMITH data set is a collection of information on human trafficking cases reported to the United Nations. This means our final generalizations will apply to UN member countries. It’s important to note cases of human trafficking may go unreported, this explains the small sample size.\nAlthough the variable names and their outputs from the CTDC data set are vague, we are still able to draw credible conclusions from analysis.\nThe SMITH data set has about 1,500 observations and the CTDC data set has about 21,000 observations. A larger sample size for the SMITH data would allow for greater security in our final results. So If we could add to our data, we would add more data to our data.\nMost of the variables from the CTDC data set are proxies. As their goal was to retain victim privacy\nEthical soundness Discretions and victim protection is a huge roadblock for our topic of research. We have found difficulties in even finding a proficient dataset related to our topic.\nScope Minors and adults are reported as victims in both data sets. The SMITH data set has information on human trafficking within member countries of the United Nations. The CTDC data has information on trafficking victims from their specified continent\nOriginally we wanted to explore relationships between child development and their use of social media. We faced ethical constraints in looking for this information on children. Therefore we decided to explore different topics. The development aspect of our original research question is missing from both data sets. However both data sets include children and more specifically the SMITH data set relates human trafficking cases to social media.\nWith our combined data sets we can make claims about human trafficking for all ages and from most countries. We can not touch on the intended topic of child development."
   },
   {
     "objectID": "HectorA.A.html",
