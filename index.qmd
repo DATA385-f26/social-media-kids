@@ -4,8 +4,11 @@ title: "Investigating a Dataset's Ingredients"
 
 ## Topic Area
 
-Introduce your topic area. What did you choose, why did you choose it? 
+For the research topic presented in this website, the team decided to observe the involvement of social media in human trafficking cases around the world.
+This topic came as th result from the obstacles presented on the research of our original research question, as data in regards of underage victims is rarely accessible and secure due to the nature of the cases, we where forced to pivot to the use of social median in human trafficking cases.
+
 
 ## Research Question
 
-State your research question that you hope to answer with data. 
+
+What are some ways child development is negatively imppacted by their use of social media.
