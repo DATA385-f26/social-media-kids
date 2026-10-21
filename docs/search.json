@@ -1,26 +1,6 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Investigating a Dataset’s Ingredients",
-    "section": "",
-    "text": "Introduce your topic area. What did you choose, why did you choose it?"
-  },
-  {
-    "objectID": "index.html#topic-area",
-    "href": "index.html#topic-area",
-    "title": "Investigating a Dataset’s Ingredients",
-    "section": "",
-    "text": "Introduce your topic area. What did you choose, why did you choose it?"
-  },
-  {
-    "objectID": "index.html#research-question",
-    "href": "index.html#research-question",
-    "title": "Investigating a Dataset’s Ingredients",
-    "section": "Research Question",
-    "text": "Research Question\nState your research question that you hope to answer with data."
-  },
-  {
+    main
     "objectID": "emilylupercio.html",
     "href": "emilylupercio.html",
     "title": "Data Collection Facts Label",
