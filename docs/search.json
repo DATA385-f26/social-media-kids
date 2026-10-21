@@ -1,9 +1,17 @@
 [
   {
+    main
     "objectID": "emilylupercio.html",
     "href": "emilylupercio.html",
     "title": "Data Collection Facts Label",
     "section": "",
     "text": "Data Source Facts Label\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource Identity\n\n\n\n\n\n\nSource name\n\n\nSocial Media and the Internet in the Trafficking of Humans (SMITH) Data Project\n\n\n\n\nDomain/topic\n\n\nSocial Sciences\n\n\n\n\nSource type\n\n\nPublic Dataset\n\n\n\n\n\n\n\n\n\n\n\nCollection Context\n\n\n\n\n\n\nCollector/producer\n\n\nOrganizition: Harvard Dataverse (public). Author: Spencer Brooke Hayes (refrence page included in coding guide).\n\n\n\n\nOriginal purpose\n\n\nData set was created by author to use as evidence in a dissertation\n\n\n\n\nCollection method\n\n\nPublic records: United Nations annual reports\n\n\n\n\nRecord-creation event\n\n\nEvent: Human traffiking incident reported to United Nations and landing on annual reports\n\n\n\n\n\n\n\n\n\n\n\nObservation and Scope\n\n\n\n\n\n\nUnit of observation\n\n\nHuman trafficking case\n\n\n\n\nPopulation or objects represented\n\n\nHuman trafficking case details such as date, case number, country\n\n\n\n\nTime period covered\n\n\n2000-2023\n\n\n\n\nGeographic area coverage\n\n\nMember states of united nations\n\n\n\n\n\n\n\n\n\n\n\nVariables and Data Structure\n\n\n\n\n\n\nMain variables/fields\n\n\nCountry, use of social media, technology presence\n\n\n\n\nData types included\n\n\nCategorical, numerical, year, case ID, binary, web link\n\n\n\n\nDirect measurements\n\n\nDate, country, internet/ social media/ techonoly presence\n\n\n\n\nPossible proxy variables\n\n\nNA\n\n\n\n\n\n\n\n\n\n\n\nDocumentation\n\n\n\n\n\n\nDocumentation found\n\n\nMetadata, coding guide, abstract\n\n\n\n\nStated collection details\n\n\nYes, dataset even includes link"
+  },
+  {
+    "objectID": "HectorA.A.html",
+    "href": "HectorA.A.html",
+    "title": "Data Collection Facts Label",
+    "section": "",
+    "text": "Data Source Facts Label\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource Identity\n\n\n\n\n\n\nSource name\n\n\nThe Counter Trafficking Data Collaborative\n\n\n\n\nDomain/topic\n\n\nRelationships between victims and perpetrators\n\n\n\n\nSource type\n\n\nSynthetic dataset\n\n\n\n\n\n\n\n\n\n\n\nCollection Context\n\n\n\n\n\n\nCollector/producer\n\n\nInternational Organization for Migration\n\n\n\n\nOriginal purpose\n\n\nDevelop and refine an algorithm to generate synthetic data from CTDC’s sensitive victim case records\n\n\n\n\nCollection method\n\n\nFirst-hand information on the relationships between victims and perpetrators\n\n\n\n\nRecord-creation event\n\n\nStatistical properties of the original victim data without representing actual victims\n\n\n\n\n\n\n\n\n\n\n\nObservation and Scope\n\n\n\n\n\n\nUnit of observation\n\n\n\n\n\n\nPopulation or objects represented\n\n\nvictims and perpetrators\n\n\n\n\nTime period covered\n\n\n2005 to 2022.\n\n\n\n\nGeographic area coverage\n\n\n123 countries and territories\n\n\n\n\n\n\n\n\n\n\n\nVariables and Data Structure\n\n\n\n\n\n\nMain variables/fields\n\n\nVictim gender, Perpetuator gender, Relationship.\n\n\n\n\nData types included\n\n\nCategorical, numerical\n\n\n\n\nDirect measurements\n\n\nYear,Region, number exploiter, money transfer.\n\n\n\n\nPossible proxy variables\n\n\nAll\n\n\n\n\n\n\n\n\n\n\n\nDocumentation\n\n\n\n\n\n\nDocumentation found\n\n\nMetadata, coding guide, abstract\n\n\n\n\nStated collection details\n\n\nYes, included details"
   }
 ]
